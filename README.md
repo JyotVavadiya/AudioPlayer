@@ -1,16 +1,9 @@
-# audio_task
+## **audio_task**
 
-A new Flutter project.
+```bash
 
-## Getting Started
+Package: assets_audio_player:
 
-This project is a starting point for a Flutter application.
+```
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://user-images.githubusercontent.com/102645700/170642392-45ed337c-2e49-4101-af2f-7b740c35a2f7.mp4
